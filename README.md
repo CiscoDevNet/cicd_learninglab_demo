@@ -1,6 +1,6 @@
 ## Cisco DevNet Learning Labs: Demo for CICD Learning Lab
 
-These self-paced interactive tutorials provide instructions for developers to ....
+These self-paced interactive tutorials provide instructions for developers to set up a drone-based CICD system.
 
 Labs are written to be displayed within the [Cisco DevNet Learning Labs system](https://learninglabs.cisco.com).
 

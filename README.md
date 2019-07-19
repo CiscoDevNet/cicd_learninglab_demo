@@ -8,3 +8,4 @@ To publish your docker image to cloud.docker.com:
 
 - git push will invoke the build, publush process
 
+

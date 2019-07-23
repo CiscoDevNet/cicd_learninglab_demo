@@ -7,3 +7,4 @@ To publish your docker image to cloud.docker.com:
 - Fill your docker credential in the .drone.yml
 
 - git push will invoke the build, publush process
+

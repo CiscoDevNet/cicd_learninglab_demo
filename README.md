@@ -20,3 +20,15 @@ Write your content in Markdown. DevNet staff reviews content according to the [C
 
 * If you'd like to contribute to an existing lab, refer to [contributing.md](contributing.md).
 * If you're interested in creating a new Cisco DevNet Learning Lab, please contact a DevNet administrator for guidance.
+
+## For this Docker image
+To publish your Docker image to cloud.docker.com:
+
+- Customize .drone.yml and Dockerfile in your repo 
+
+- Create your own docker repo account 
+
+- Fill your docker credential in the .drone.yml
+
+- git push will invoke the build, publush process
+
